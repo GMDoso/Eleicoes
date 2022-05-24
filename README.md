@@ -23,3 +23,4 @@ Enquanto Meta de votos não foi atingida? Faça
 ```
    
    
+![Diagrama em branco (1)](https://user-images.githubusercontent.com/101879797/169937215-ad882e6f-df18-409a-bead-8ce28ffc6bf7.png)
